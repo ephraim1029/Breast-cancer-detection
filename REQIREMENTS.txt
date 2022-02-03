@@ -1,2 +1,6 @@
-Streamlit
+streamlit
 sklearn
+altair
+pandas
+metplotib
+yfiance
