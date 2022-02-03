@@ -1,5 +1,4 @@
 #importing required modules
-import sklearn
 import pandas as pd
 import numpy as np
 from sklearn import datasets
