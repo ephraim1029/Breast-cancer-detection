@@ -1,3 +1,6 @@
-streamlit
-sklearn
+altair
 pandas
+sklearn
+matplotlib
+streamlit
+yfinance
